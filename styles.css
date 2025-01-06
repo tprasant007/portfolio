@@ -109,7 +109,7 @@ h2.title {
 .skills-slider-container {
   width: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
@@ -256,6 +256,7 @@ footer {
 
   header.show {
     display: flex;
+    background-color: #303841;
   }
 
   header {
@@ -272,6 +273,7 @@ footer {
 
   header li {
     margin: 1.5rem;
+    border-bottom: #fff 1px solid;
   }
 
   h1.welcome {
