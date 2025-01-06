@@ -7,7 +7,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 - **Responsive Design:** Optimized for viewing on desktops, tablets, and mobile devices.
 - **Project Showcase:** Highlights my key projects links to the live demos and source code.
 - **About Me:** Provides an overview of my background, skills, and professional journey.
-- **Contact Form:** Allows visitors to get in touch with me directly through the website.
+- **Contact:** Provides my contact informations.
 
  ## Technologies Used
 
