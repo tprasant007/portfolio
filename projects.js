@@ -35,6 +35,22 @@ export const skillsArr = [
     name: "MongoDB",
     src: "./images/icons/mongodb.svg",
   },
+  {
+    name: "C#",
+    src: "./images/icons/c-sharp.svg",
+  },
+  {
+    name: "SQL",
+    src: "./images/icons/sql.svg",
+  },
+  {
+    name: ".NET core",
+    src: "./images/icons/NET.png",
+  },
+  {
+    name: "Blazor Webassembly",
+    src: "./images/icons/blazor.svg",
+  },
 ];
 
 export const projectsArr = [
