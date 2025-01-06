@@ -55,6 +55,12 @@ export const skillsArr = [
 
 export const projectsArr = [
   {
+    name: "Blogbook",
+    image_src: "./images/blogbook.png",
+    live_demo: "https://prasant-blog-book.netlify.app/",
+    github_repo: "https://github.com/tprasant007/blogbook",
+  },
+  {
     name: "Workout-Buddy",
     image_src: "./images/Workout-buddy.png",
     live_demo: "https://tprasant007-wb.netlify.app/",

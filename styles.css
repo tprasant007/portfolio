@@ -148,6 +148,8 @@ h2.title {
   height: 300px;
   object-fit: cover;
   margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.4rem;
 }
 
 .project-name {
